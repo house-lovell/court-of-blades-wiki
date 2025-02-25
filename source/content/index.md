@@ -1,7 +1,8 @@
 ---
-title: My GitHub Pages Notebook!
+title: Welcome to House Lovell
 ---
 
-Hello world!
+## House Lovell
 
-Write some words here!
+House Lovell is a [[Major Houses | major house]] in [[Ilurine]].
+
