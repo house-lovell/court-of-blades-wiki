@@ -1,8 +1,13 @@
 ---
-title: Welcome to House Lovell
+title: Welcome to Ilrien
 ---
+Welcome to Ilrien! You may be interested in the adventures of [[The Lovell Coterie]].
 
-## House Lovell
 
-House Lovell is a [[Major Houses | major house]] in [[Ilurine]].
+
+
+
+
+
+
 
