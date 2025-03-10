@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Cinzel Decorative",
-        body: " Crimson Text",
+        body: "Crimson Text",
         code: "Overpass Mono",
       },
       colors: {
