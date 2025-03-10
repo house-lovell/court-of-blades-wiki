@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "A Court Of Blades Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Cinzel Decorative",
+        body: " Crimson Text",
+        code: "Overpass Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f5f1e8",  // Aged parchment
+          lightgray: "#d6cdc4",  // Muted soft gray
+          gray: "#7a6f64",  // Aged ink gray
+          darkgray: "#4e4e4e",  
+          dark: "#2b2b2b",  
+          secondary: "#6b2e2e",  // Deep red accent
+          tertiary: "#a88c6d",  // Gold-tinted secondary
+          highlight: "rgba(168, 140, 109, 0.25)",  // Aged gold
+          textHighlight: "#c49a0088",  // Golden glow
         },
         darkMode: {
-          light: "#161618",
+          light: "#1b1a18",  // Aged paper in dim light
           lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
+          gray: "#7a6f64",
+          darkgray: "#d4c5a4",  // Warm desaturated gold
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          secondary: "#b23e3e",  // Rich red
+          tertiary: "#c49a6c",  // Faded gold
+          highlight: "rgba(168, 140, 109, 0.25)",
+          textHighlight: "#d4af3788", // Deep gold
         },
       },
     },
