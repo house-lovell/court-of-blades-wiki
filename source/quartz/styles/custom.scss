@@ -1,3 +1,78 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* 1) Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&family=Cinzel+Decorative&display=swap');
+
+/* 2) Body background and base font */
+body {
+  margin: 0;
+  padding: 0;
+  background: url("/source/quartz/static/parchment-background.jpg") repeat center center;
+  background-size: contain;
+  color: #2b2b2b;
+  font-family: 'IM Fell English', serif;
+  line-height: 1.4;
+}
+
+/* 3) Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel Decorative', serif;
+  margin: 1.5rem 0 1rem;
+  color: #2a2a2a;
+  text-transform: none;
+  letter-spacing: 1px;
+}
+
+/* 4) Links */
+a {
+  color: #663399;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* 5) Horizontal Rule Flourish */
+hr {
+  border: none;
+  height: 40px;
+  background: url("/assets/images/flourish.png") center/contain no-repeat;
+  margin: 2rem 0;
+}
+
+/* 6) Ornate box for special callouts */
+.ornate-box {
+  border: 2px solid #2a2a2a;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: relative;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.ornate-box::before,
+.ornate-box::after {
+  content: url("/assets/images/corner-flourish.svg");
+  position: absolute;
+  width: 32px;
+  height: 32px;
+}
+.ornate-box::before {
+  top: -16px;
+  left: -16px;
+}
+.ornate-box::after {
+  bottom: -16px;
+  right: -16px;
+  transform: rotate(180deg);
+}
+
+/* 7) Page Title or Post Title */
+.post-title {
+  font-family: 'Cinzel Decorative', serif;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
