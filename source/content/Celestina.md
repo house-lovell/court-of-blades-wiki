@@ -1,0 +1,1 @@
+Celestina is a Knack and a member of [[The Tell]].
