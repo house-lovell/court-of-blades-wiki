@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giovanni.md",
+                "file": "Anno Primo Spring Season.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giovanni"
+              "title": "Anno Primo Spring Season"
+            }
+          },
+          {
+            "id": "80c1a7b2b91c67bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Farid zu-Dosta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Farid zu-Dosta"
+            }
+          },
+          {
+            "id": "21b7a4aafbeee9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arendt Keller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arendt Keller"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,27 +209,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ac7c7bab35bc98a",
+  "active": "21b7a4aafbeee9e4",
   "lastOpenFiles": [
+    "assets/character-art/Marcelle_Bastien.jpg",
+    "Bernholdt Battalia.md",
+    "assets/character-art/Bernholdt_Battalia.jpg",
+    "Farid zu-Dosta.md",
+    "Arendt Keller.md",
+    "assets/character-art/Arendt_Kellar.jpg",
+    "Salar al-Dosta.md",
+    "assets/character-art/Farid_Zu-Dosta.jpg",
+    "Anno Primo Spring Season.md",
+    "assets/character-art/Salar_Al-Dosta.jpg",
+    "Major Houses.md",
+    "First Prince of Ilrien.md",
+    "Blue Devils.md",
+    "First Swords in Ilrien.md",
+    "Giovanni.md",
     "House Lovell.md",
     "Ilrien.md",
     "index.md",
     "Lucenne.md",
-    "Major Houses.md",
     "Salvatore.md",
     "Valcara.md",
     "Tyrian.md",
-    "Anno Primo Spring Season.md",
     "Celestina.md",
     "Colette.md",
-    "First Swords in Ilrien.md",
     "Emmeline.md",
     "Dante.md",
     "Prince Cipriano.md",
     "The Tell.md",
     "House Elanda.md",
     "House Corvetto.md",
-    "Giovanni.md",
     "assets/character-art/Lucenne.jpg",
     "assets/character-art/Tyrian.jpg",
     "assets/character-art/Valcara.jpg",
@@ -208,13 +248,6 @@
     "assets/character-art/PrinceCipriano.jpg",
     "assets/character-art",
     "assets",
-    "Anno Primo.md",
-    "House Al-Mari.md",
-    "House Bastien.md",
-    "House Battalia.md",
-    "Spring Season.md",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
     "category-folder"
   ]
 }

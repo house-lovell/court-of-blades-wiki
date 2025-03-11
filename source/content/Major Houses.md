@@ -6,4 +6,12 @@ There are six major houses in Ilrien:
 - [[House Al-Mari]]
 - [[House Elanda]]
 - [[index|House Lovell]]
-- 
+
+#### Standing
+During the [[Anno Primo Spring Season]], the Houses are ranked accordingly:
+1. [[House Corvetto]], whose leader ranks as the [[First Prince of Ilrien]].
+2. [[House Battalia]] 
+3. [[House Bastien]], whose rank is approximately equal to that of Battalia.
+4. [[House Elanda]]
+5. [[House Al-Mari]], whose rank is approximately equal to that of Elenda.
+6. [[House Lovell]]
