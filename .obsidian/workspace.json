@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd40d78747842a05",
+        "id": "8365474f97932169",
         "type": "tabs",
         "children": [
           {
-            "id": "489b69321531f0a1",
+            "id": "a16a774bc51d29a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/College of Satire.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "College of Satire"
             }
           }
         ]
@@ -143,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "06deded999cae48a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +172,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "489b69321531f0a1",
-  "lastOpenFiles": []
+  "active": "a16a774bc51d29a7",
+  "lastOpenFiles": [
+    "source/content/Dante.md",
+    "source/content/College of Satire.md",
+    "source/content/Emmeline.md",
+    "Untitled.md",
+    "source/content/Blue Devils.md",
+    "source/content/Lucenne.md",
+    "source/content/Valcara.md"
+  ]
 }
