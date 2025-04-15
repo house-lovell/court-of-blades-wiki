@@ -9,3 +9,5 @@ During the season, [[The Signora]] wants help connecting the [[Blue Devils]] to 
 
 During [[The Spring Tournament]], [[Dante]] and [[Salvatore]] fight as duelists in the tourney while [[Colette]], [[Celestina]], and [[Emmeline]] attempt to find ways to ingratiate the Blue Devils and [[House Lovell]] with prominent courtiers in attendance. There is social after party planned.
 
+[[Farid zu-Dosta]] won the tournament.
+
