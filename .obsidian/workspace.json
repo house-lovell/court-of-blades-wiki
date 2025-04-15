@@ -11,14 +11,12 @@
             "id": "489b69321531f0a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/Salvatore.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/assets/character-art/Maestro_Marchionne_Di_Chiveli.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Salvatore"
+              "icon": "lucide-image",
+              "title": "Maestro_Marchionne_Di_Chiveli"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Salvatore.md",
+                "file": "source/content/assets/character-art/Sal.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Salvatore"
+              "title": "Backlinks for Sal"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Salvatore.md",
+                "file": "source/content/assets/character-art/Sal.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Salvatore"
+              "title": "Outgoing links from Sal"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Salvatore.md",
+                "file": "source/content/assets/character-art/Sal.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Salvatore"
+              "title": "Outline of Sal"
             }
           },
           {
@@ -179,12 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "489b69321531f0a1",
+  "active": "520b8028d2238e2e",
   "lastOpenFiles": [
+    "source/content/assets/character-art/Sal.jpg",
+    "source/content/assets/character-art/Maestro_Marchionne_Di_Chiveli.jpg",
+    "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
+    "Untitled",
+    "source/content/assets/character-art/Arendt_Kellar.jpg",
+    "source/content/Anno Primo.md",
+    "source/content/assets/character-art/Giovanni.jpg",
+    "source/content/House Corvetto.md",
+    "source/content/Major Houses.md",
+    "source/content/Salvatore.md",
     "source/content/Roscura.md",
     "source/content/Prince Cipriano.md",
     "source/content/Marcel Bastien.md",
-    "source/content/Major Houses.md",
     "source/content/Lucenne.md",
     "source/content/Ilrien.md",
     "source/content/House Elanda.md",
@@ -195,25 +202,18 @@
     "source/content/Dante.md",
     "source/content/Colette.md",
     "source/content/Emmeline.md",
-    "source/content/assets/character-art/Sal.jpg",
     "source/content/assets/character-art/Salvatore.jpg",
     "source/content/assets/character-art/Bernholdt_Battalia.jpg",
-    "source/content/assets/character-art/Arendt_Kellar.jpg",
     "source/content/assets/character-art/Roscura.jpg",
     "source/content/assets/character-art/Tyrian.jpg",
     "source/content/assets/character-art/Valcara.jpg",
-    "source/content/Salvatore.md",
     "source/content/House Battalia.md",
     "source/content/Blue Devils.md",
     "source/content/Celestina.md",
     "source/content/Untitled.md",
     "source/content/Arendt Keller.md",
     "source/content/House Lovell.md",
-    "source/content/House Corvetto.md",
     "source/content/Salar al-Dosta.md",
-    "source/content/Anno Primo Spring Season.md",
-    "source/content/Anno Primo.md",
-    "source/content/First Swords in Ilrien.md",
-    "source/content/assets/character-art/Farid_Zu-Dosta.jpg"
+    "source/content/Anno Primo Spring Season.md"
   ]
 }
