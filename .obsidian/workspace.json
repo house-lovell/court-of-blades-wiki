@@ -53,15 +53,14 @@
             "id": "b746903f81d0c2f2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "source/content/Anno Primo.md",
-                "bFile": "source/content/Anno Primo.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "source/content/Dante.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Anno Primo"
+              "icon": "lucide-file",
+              "title": "Dante"
             }
           }
         ],
@@ -222,6 +221,7 @@
   },
   "active": "b746903f81d0c2f2",
   "lastOpenFiles": [
+    "source/content/Bernholdt Battalia.md",
     "source/content/Anno Primo.md",
     "source/content/Arendt Keller.md",
     "conflict-files-obsidian-git.md",
@@ -236,7 +236,6 @@
     "source/content/First Prince of Ilrien.md",
     "source/content/Farid zu-Dosta.md",
     "source/content/Blue Devils.md",
-    "source/content/Bernholdt Battalia.md",
     "source/content/Anno Primo Spring Season.md",
     "source/content/Prince Cipriano.md",
     "source/content/Colette.md",
