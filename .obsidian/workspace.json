@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/College of Satire.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "College of Satire"
+              "title": "Untitled"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "a16a774bc51d29a7",
   "lastOpenFiles": [
-    "source/content/Dante.md",
+    "source/content/assets/character-art/Farid zu-Dosta.md",
     "source/content/College of Satire.md",
+    "source/content/Dante.md",
     "source/content/Emmeline.md",
     "Untitled.md",
     "source/content/Blue Devils.md",
