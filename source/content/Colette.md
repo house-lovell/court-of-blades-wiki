@@ -1,1 +1,1 @@
-Colette is Key and a member of [[The Tell]].
+Colette is Key and a member of [[The Tell]]. Colette is great
