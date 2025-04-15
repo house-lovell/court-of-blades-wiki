@@ -1,1 +1,1 @@
-Celestina is a Knack and a member of [[The Tell]]. Testing testing 123
+Celestina is a Knack and a member of [[The Tell]].
