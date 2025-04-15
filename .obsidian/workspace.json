@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Major Houses.md",
+                "file": "source/content/Celestina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Major Houses"
+              "title": "Celestina"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Major Houses.md",
+                "file": "source/content/Celestina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Major Houses"
+              "title": "Backlinks for Celestina"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "76525751dc2e366d",
   "lastOpenFiles": [
+    "source/content/Major Houses.md",
     "source/content/Ilrien.md",
     "source/content/Celestina.md",
     "source/content/House Al-Mari.md",
