@@ -6,7 +6,7 @@ are certainly listening._"
 > A Court of Blades, p. 116
 
 
-House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Primo Spring Season|Spring Season]] of [[Anno Primo]], the house is led by [[Prince Cipriano]] after his parents fell to scandal. Lovell currently sits sixth in prominence amoing the major houses.
+House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Primo Spring Season|Spring Season]] of [[Anno Primo]], the house is led by [[Prince Cipriano]] after his parents fell to scandal. Lovell currently sits sixth in prominence among the major houses.
 
 ## History
 
