@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Celestina is a Knack and a member of [[The Tell]]. 
 
 Celestina grew up enjoying a privileged life on Altori with the freedom to follow her pursuits and wishes where they led without worrying about mundane things like money or sustenance. This led her to learning of the mystics arts, something she always felt she had a natural inclination for. She prospered under the teachings of Cyprus - the best diviner Altori had seen this century - though it's hard to say how much of this way due to Cyprus herself or Celestina's gifts as a Knack. 
@@ -6,6 +5,3 @@ Celestina grew up enjoying a privileged life on Altori with the freedom to follo
 After enjoying 3 glorious decades on Altori, Celestina decided it was time to see what the big city life was about and relocated to [[Ilrien]]. As a diviner, she found it easiest to align herself with [[House Lovell]] - as her job becomes a bit simpler in the presence of loose lips and easy chatter - and became known as their Seer. When she's off duty, Celestina is known to amuse others with party tricks and simple magic and herself with the pleasure of fine food, good drink, and the occasional illicit substance. 
 
 Celestina is a somewhat polarizing figure with tanned skin, a short and plump frame, and a dark updo of hair. There's no consensus on if her dark eyes are warm and inviting or piercing and sinister, likely because of the way she seems a bit too good at knowing what you're thinking. This may have won her the romantic attention of Moon, an influential figure of [[House Elanda]] who is somewhat of a rival after failing at attempts to buy her affections. Fortunately, she still has a friend in Clemenza, an arcane dealer who has dealings with the Sevenfold Veils.
-=======
-Celestina is a Knack and a member of [[The Tell]].
->>>>>>> origin/main
