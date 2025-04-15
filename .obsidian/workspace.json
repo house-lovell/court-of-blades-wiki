@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Anno Primo Spring Season.md",
+                "file": "source/content/Celestina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anno Primo Spring Season"
+              "title": "Celestina"
             }
           }
         ]
@@ -168,10 +168,11 @@
   },
   "active": "489b69321531f0a1",
   "lastOpenFiles": [
-    "source/content/Arendt Keller.md",
-    "source/content/Anno Primo Spring Season.md",
-    "source/content/Anno Primo.md",
+    "source/content/Emmeline.md",
     "source/content/Celestina.md",
+    "source/content/Anno Primo.md",
+    "source/content/Anno Primo Spring Season.md",
+    "source/content/Arendt Keller.md",
     "source/content/Salar al-Dosta.md",
     "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
     "source/content/assets/character-art/Valcara.jpg"
