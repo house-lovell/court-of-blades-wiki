@@ -4,3 +4,5 @@ House Elanda remains. If there is something you need, be assured the
 Elanda either make it, import it, transport it, or ensures that you need
 it in the first place._"
 > A Court of Blades, p. 124
+
+## Major Characters

@@ -4,3 +4,8 @@ blind to the games of the Esultare. They see the dance, see through the
 lies. What was won at the edge of a sword cannot be stolen by pretty
 words. Battalia stands vigilant and unimpressed._"
 A Court of Blades, p. 108
+
+## Major Characters
+
+* [[Arendt Keller]]
+* [[Bernholdt Battalia]]
