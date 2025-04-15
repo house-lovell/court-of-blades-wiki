@@ -1,3 +1,5 @@
-Salvatore is a Bravo and a member of [[The Tell]].
+Salvatore is a Bravo and a member of [[The Tell]]. 
+
+Salvatore grew up in Maur. He stands on the taller side, rising a bit above the crowded market streets. He has black hair cut short in the common military style and tan skin. As a member of a large family of middling importance he was simply lost in the bureaucratic shuffle of the day to day life of running large families. Wanting to make more of a name for himself, Sal enlisted with the local military outfit as soon as he was able even if it meant forging papers for his age. His time with the Maursian military saw him quickly rise in acclaim due to his skill with the blade. However officer positions were reserved for the more senior members of the military so Sal gladly accepted the invitation of the noble houses to begin teaching some of their members how to duel. Eventually Sal’s abilities caught the eye of Colette, a member of house Lovell who was able to sponsor Sal into the family. Sal see’s this as his golden ticket and a way to finally make a name for himself and see his new family rise among the other noble houses of Illren.
 
 ![[Salvatore.jpg]]
