@@ -13,5 +13,5 @@ During the [[Anno Primo Spring Season]], the Houses are ranked accordingly:
 2. [[House Battalia]] 
 3. [[House Bastien]], whose rank is approximately equal to that of Battalia.
 4. [[House Elanda]]
-5. [[House Al-Mari]], whose rank is approximately equal to that of Elenda.
+5. [[House Al-Mari]], whose rank is approximately equal to that of Elanda.
 6. [[House Lovell]]

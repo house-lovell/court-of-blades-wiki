@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Celestina.md",
+                "file": "source/content/Major Houses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celestina"
+              "title": "Major Houses"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Celestina.md",
+                "file": "source/content/Major Houses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Celestina"
+              "title": "Backlinks for Major Houses"
             }
           },
           {
@@ -183,12 +183,13 @@
   },
   "active": "76525751dc2e366d",
   "lastOpenFiles": [
+    "source/content/Ilrien.md",
+    "source/content/Celestina.md",
     "source/content/House Al-Mari.md",
     "source/content/Giovanni.md",
     "source/content/First Swords in Ilrien.md",
     "source/content/First Prince of Ilrien.md",
     "source/content/Arendt Keller.md",
-    "source/content/Celestina.md",
     "conflict-files-obsidian-git.md",
     "source/content/Emmeline.md",
     "source/content/Anno Primo.md",
