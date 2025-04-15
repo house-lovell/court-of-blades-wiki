@@ -18,5 +18,9 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
+<<<<<<< HEAD
   "close": true
+=======
+  "close": false
+>>>>>>> origin/main
 }
