@@ -170,11 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "489b69321531f0a1",
+  "active": "520b8028d2238e2e",
   "lastOpenFiles": [
-    "Pasted image 20250418100028.png",
-    "Pasted image 20250418095906.png",
-    "Pasted image 20250418095820.png",
+    "source/content/assets/screenshots",
+    "btvencill.pub",
+    "btvencill",
+    "source/content/assets/screenshots/Pasted image 20250418100028.png",
+    "source/content/assets/screenshots/Pasted image 20250418095906.png",
+    "source/content/assets/screenshots/Pasted image 20250418095820.png",
     "source/content/The Silk.md",
     "README.md",
     "source/content/The Tell.md",
@@ -207,7 +210,6 @@
     "source/content/assets/character-art/Maestro_Marchionne_Di_Chiveli.jpg",
     "source/content/assets/character-art/Sal.jpg",
     "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
-    "Untitled",
-    "source/content/assets/character-art/Arendt_Kellar.jpg"
+    "Untitled"
   ]
 }
