@@ -18,7 +18,7 @@ House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Pri
 ##### The Coterie
 _See main article: [[The Tell]]_.
 - [[Colette]], a Key
-- [[Emmeline]], a Hawk
+- [[Emmeline Lovell]], a Hawk
 - [[Celestina]], a Knack
 - [[Salvatore]], a Bravo
 - [[Dante]], a Kiss

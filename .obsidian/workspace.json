@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "dd40d78747842a05",
+        "id": "31396aeaff014419",
         "type": "tabs",
         "children": [
           {
-            "id": "489b69321531f0a1",
+            "id": "7dd668bcd079d55d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "source/content/Emmeline.md",
-                "mode": "source",
-                "source": false
+                "aFile": "source/content/The Tell.md",
+                "bFile": "source/content/The Tell.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Emmeline"
+              "icon": "diff",
+              "title": "Diff: The Tell"
+            }
+          }
+        ]
+      },
+      {
+        "id": "219ba9ff5d5021a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0bce1f66a2cd675",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "source/content/The Tell.md",
+                "bFile": "source/content/The Tell.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: The Tell"
             }
           }
         ]
@@ -78,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 391.5
   },
   "right": {
     "id": "cec0216817c7bdee",
@@ -166,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,16 +201,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "489b69321531f0a1",
+  "active": "7dd668bcd079d55d",
   "lastOpenFiles": [
+    "source/content/The Tell.md",
+    "source/content/Colette.md",
+    "source/content/Emmeline Lovell.md",
+    "source/content/House Bastien.md",
+    "source/content/House Lovell.md",
+    "source/content/Anno Primo.md",
+    "source/content/Celestina.md",
+    "source/content/The Silk.md",
+    "conflict-files-obsidian-git.md",
     "source/content/Farid zu-Dosta.md",
+    "source/content/Emmeline.md",
+    "source/content/category-folder/Farid zu-Dosta.md",
+    "source/content/category-folder",
+    "source/content/assets/screenshots/Pasted.md",
+    "source/content/assets/screenshots/example-finished-push.png",
+    "source/content/assets/screenshots/example-commits.png",
+    "source/content/assets/screenshots",
+    "source/content/assets/character-art/emmeline-lovell.webp",
+    "source/content/assets/character-art/Celestina.jpg",
     "source/content/Anno Primo Spring Season.md",
     "source/content/Giovanni.md",
     "source/content/The White Road.md",
     "source/content/The Gilt.md",
     "source/content/Ilrien.md",
-    "source/content/The Tell.md",
-    "source/content/The Silk.md",
     "source/content/The Signora.md",
     "source/content/category-folder/index.md",
     "Pasted image 20250418141729.png",
@@ -198,26 +236,12 @@
     "Untitled",
     "source/content/Bernholdt Battalia.md",
     "source/content/People/Arendt Keller.md",
-    "source/content/Anno Primo.md",
     "source/content/People",
     "source/content/Dante.md",
     "source/content/First Prince of Ilrien.md",
-    "source/content/House Al-Mari.md",
-    "source/content/category-folder/Some note.md",
-    "source/content/First Swords in Ilrien.md",
-    "source/content/Salar al-Dosta.md",
-    "source/content/Salvatore.md",
-    "source/content/Valcara.md",
-    "source/content/Tyrian.md",
-    "source/content/Emmeline.md",
-    "source/content/Roscura.md",
     "source/content/assets/character-art/Ilrien_Map.jpeg",
     "source/content/assets/character-art/Azita_Zu-Mari.jpg",
     "source/content/assets/character-art/The_Signora.jpg",
-    "source/content/assets/character-art/Bernholdt_Battalia.jpg",
-    "source/content/assets/character-art/Maestro_Marchionne_Di_Chiveli.jpg",
-    "source/content/assets/character-art/Sal.jpg",
-    "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
-    "source/content/assets/character-art/Arendt_Kellar.jpg"
+    "source/content/assets/character-art/Bernholdt_Battalia.jpg"
   ]
 }
