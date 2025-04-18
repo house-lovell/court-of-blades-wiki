@@ -35,8 +35,7 @@
               "title": "House Lovell"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/House Lovell.md",
+                "file": "source/content/Celestina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for House Lovell"
+              "title": "Backlinks for Celestina"
             }
           },
           {
@@ -177,20 +176,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "489b69321531f0a1",
+  "active": "b22ec238ec370cd3",
   "lastOpenFiles": [
+    "source/content/assets/character-art/Valcara.jpg",
+    "source/content/assets/character-art/Celestina.jpg",
+    "source/content/assets/character-art/Tyrian.jpg",
+    "source/content/assets/character-art/Salvatore.jpg",
+    "source/content/assets/character-art/Salar_Al-Dosta.jpg",
+    "source/content/assets/character-art/Roscura.jpg",
+    "source/content/assets/character-art/PrinceCipriano.jpg",
+    "source/content/assets/character-art/Marcelle_Bastien.jpg",
+    "source/content/assets/character-art/Lucenne.jpg",
+    "source/content/assets/character-art/Giovanni.jpg",
+    "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
+    "source/content/category-folder/Farid zu-Dosta.md",
+    "source/content/Celestina.md",
+    "source/content/House Lovell.md",
     "source/content/House Elanda.md",
     "source/content/House Corvetto.md",
     "source/content/House Battalia.md",
     "source/content/House Bastien.md",
     "source/content/House Al-Mari.md",
-    "source/content/House Lovell.md",
     "source/content/Salar al-Dosta.md",
-    "source/content/Celestina.md",
     "source/content/Major Houses.md",
     "source/content/Anno Primo Spring Season.md",
     "source/content/Anno Primo.md",
@@ -200,8 +210,6 @@
     "source/content/First Prince of Ilrien.md",
     "source/content/Arendt Keller.md",
     "conflict-files-obsidian-git.md",
-    "source/content/Emmeline.md",
-    "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
-    "source/content/assets/character-art/Valcara.jpg"
+    "source/content/Emmeline.md"
   ]
 }
