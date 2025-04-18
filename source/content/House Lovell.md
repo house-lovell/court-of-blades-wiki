@@ -6,7 +6,7 @@ are certainly listening._"
 > A Court of Blades, p. 116
 
 
-House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Primo Spring Season|Spring Season]] of [[Anno Primo]], the house is led by [[Prince Cipriano]] after his parents fell to scandal. Lovell currently sits sixth in prominence amoing the major houses.
+House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Primo Spring Season|Spring Season]] of [[Anno Primo]], the house is led by [[Prince Cipriano]] after his parents fell to scandal. Lovell currently sits sixth in prominence among the major houses.
 
 ## History
 
@@ -18,7 +18,7 @@ House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Pri
 ##### The Coterie
 _See main article: [[The Tell]]_.
 - [[Colette]], a Key
-- [[Emmeline]], a Hawk
+- [[Emmeline Lovell]], a Hawk
 - [[Celestina]], a Knack
 - [[Salvatore]], a Bravo
 - [[Dante]], a Kiss

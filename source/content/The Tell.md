@@ -5,4 +5,4 @@ The Tell is comprised of:
 - [[Dante]]
 - [[Celestina]]
 - [[Colette]]
-- [[Emmeline]]
+- [[Emmeline Lovell]]

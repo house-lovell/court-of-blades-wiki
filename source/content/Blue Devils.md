@@ -3,7 +3,7 @@ The Blue Devils are a faction of wayward swords in [[Ilrien]].
 Notable members:
 - [[Valcara]], their leader.
 - [[Tyrian]], a wealthy patron who finances their activities.
-- [[Lucenne]], the head weapons master.
+- [[Lucenne]], the head weapons master and First Sword.
 - [[Giovanni]], their most accomplished duelist.
 - [[Chad]], a less accomplished duelist.
 

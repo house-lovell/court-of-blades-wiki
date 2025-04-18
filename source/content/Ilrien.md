@@ -18,3 +18,18 @@ their lot, and both manipulate the guilds, the church, and the common folk of
 Ilrien to rise in favor and gain power and prestige._
 > A Court of Blades, p. 3
 
+![[Ilrien_Map.jpeg]]
+
+Areas of Interest
+* The White Road
+* The Gilt
+* The Coronet
+* The Lady's Own
+* The Vine
+* The Spindle
+* The Rose District
+* The Trinket
+* The Shores
+* The Groan
+* The Silent
+* Ribelle Foothills
