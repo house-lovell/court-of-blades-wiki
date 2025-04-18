@@ -29,9 +29,7 @@ Syncing
 2. To sync changes, use the `Git: Commit-and-sync` command from the Obsidian command palette. (`Ctrl + P` opens the command palette)
 3. You can verify your changes by viewing the most recent commits [here on Github](https://github.com/house-lovell/court-of-blades-wiki/commits/main/)
 
-![[source/content/assets/screenshots/Pasted image 20250418100028.png]]
-
+![Screenshot](source/content/assets/screenshots/example-commits.png)
 4. Changes are pushed to the website when the automated GitHub actions complete, indicated by the green arrow.
-![[source/content/assets/screenshots/Pasted image 20250418095906.png]]
 
-
+![Screenshot](source/content/assets/screenshots/example-finished-push.png)
