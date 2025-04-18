@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/The Silk.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Silk"
+              "title": "README"
             }
           }
         ]
@@ -142,31 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/assets/character-art/Sal.jpg",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "README.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sal"
-            }
-          },
-          {
-            "id": "ff5e0ad0ff2febdc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of README"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +172,12 @@
   },
   "active": "489b69321531f0a1",
   "lastOpenFiles": [
-    "source/content/The Tell.md",
+    "Pasted image 20250418100028.png",
+    "Pasted image 20250418095906.png",
+    "Pasted image 20250418095820.png",
     "source/content/The Silk.md",
+    "README.md",
+    "source/content/The Tell.md",
     "source/content/The Signora.md",
     "source/content/Salar al-Dosta.md",
     "source/content/Salvatore.md",
@@ -205,8 +200,6 @@
     "source/content/House Elanda.md",
     "source/content/Tyrian.md",
     "source/content/Prince Cipriano.md",
-    "source/content/Marcel Bastien.md",
-    "source/content/Lucenne.md",
     "source/content/assets/character-art/Ilrien_Map.jpeg",
     "source/content/assets/character-art/Azita_Zu-Mari.jpg",
     "source/content/assets/character-art/The_Signora.jpg",
@@ -215,8 +208,6 @@
     "source/content/assets/character-art/Sal.jpg",
     "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
     "Untitled",
-    "source/content/assets/character-art/Arendt_Kellar.jpg",
-    "source/content/assets/character-art/Giovanni.jpg",
-    "source/content/assets/character-art/Salvatore.jpg"
+    "source/content/assets/character-art/Arendt_Kellar.jpg"
   ]
 }

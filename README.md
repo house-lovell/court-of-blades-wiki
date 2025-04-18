@@ -1,23 +1,37 @@
-# Obsidian / Quartz / GitHub Pages Template
+# House Lovell Wiki
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+Deployed URL: https://house-lovell.github.io/court-of-blades-wiki
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
 
 ## Basic setup
 
 Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
+##### Steps for Windows Users
 
-## Raw HTML pages
+Requirements:
 
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
+1. Download Github Desktop
+2. Download Obsidian.md 
 
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
+Setup
+1. Clone this repository for local use
+2. Open Obsidian and select "Open Folder As Vault"
+3. Select the folder that Github Desktop downloaded called `court-of-blades-wiki`
+4. In Obsidian, enable community plugins
+5. In Obsidian, install the `git` community plugin by Vinzent
+6. Restart Obsidian for the git plugin to load
+7. Configure the git plugin with the correct path to the git executable that comes with Github Desktop
 
-## Further customization
 
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
+Syncing
+1. Before you start editing anything, run a `git pull` command to get the latest changes from others.
+2. To sync changes, use the `Git: Commit-and-sync` command from the Obsidian command palette. (`Ctrl + P` opens the command palette)
+3. You can verify your changes by viewing the most recent commits [here on Github](https://github.com/house-lovell/court-of-blades-wiki/commits/main/)
 
-https://quartz.jzhao.xyz/configuration
+![[Pasted image 20250418100028.png]]
+
+4. Changes are pushed to the website when the automated GitHub actions complete, indicated by the green arrow.
+![[Pasted image 20250418095906.png]]
+
+
