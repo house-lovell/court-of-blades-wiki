@@ -21,8 +21,8 @@ Ilrien to rise in favor and gain power and prestige._
 ![[Ilrien_Map.jpeg]]
 
 Areas of Interest
-* The White Road
-* The Gilt
+* [[The White Road]]
+* [[The Gilt]]
 * The Coronet
 * The Lady's Own
 * The Vine
