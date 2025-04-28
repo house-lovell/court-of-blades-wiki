@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Farid zu-Dosta.md",
+                "file": "source/content/Colette.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Farid zu-Dosta"
+              "title": "Colette"
+            }
+          },
+          {
+            "id": "80ef30afee48cb7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Bernholdt Battalia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bernholdt Battalia"
+            }
+          },
+          {
+            "id": "d1408aa0322ea021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Bernholdt Battalia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bernholdt Battalia"
+            }
+          },
+          {
+            "id": "2d95d91c3ba539fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Grace Lovell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grace Lovell"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Farid zu-Dosta.md",
+                "file": "source/content/assets/screenshots/example-commits.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Farid zu-Dosta"
+              "title": "Backlinks for example-commits"
             }
           },
           {
@@ -142,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/assets/character-art/Sal.jpg",
+                "file": "source/content/assets/screenshots/example-commits.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sal"
+              "title": "Outline of example-commits"
             }
           },
           {
@@ -179,46 +222,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff5e0ad0ff2febdc",
+  "active": "2d95d91c3ba539fd",
   "lastOpenFiles": [
-    "source/content/Farid zu-Dosta 1.md",
-    "source/content/Farid zu-Dosta.md",
-    "source/content/assets/screenshots/example-commits.png",
-    "source/content/assets/screenshots/example-finished-push.png",
-    "source/content/assets/screenshots/Pasted.md",
-    "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
+    "source/content/assets/character-art/GraceLovell.jpg",
+    "source/content/assets/character-art/Arendt_Kellar.jpg",
+    "source/content/assets/character-art/Azita_Zu-Mari.jpg",
+    "source/content/assets/character-art/Bernholdt_Battalia.jpg",
+    "source/content/assets/character-art/Celestina.jpg",
     "source/content/assets/character-art/emmeline-lovell.webp",
-    "source/content/The Silk.md",
-    "source/content/First Prince of Ilrien.md",
+    "source/content/assets/character-art/Farid_Zu-Dosta.jpg",
+    "source/content/assets/character-art/PrinceCipriano.jpg",
+    "source/content/Grace Lovell.md",
     "source/content/Bernholdt Battalia.md",
-    "source/content/Anno Primo Spring Season.md",
+    "source/content/Untitled",
+    "source/content/Olivier Bastien.md",
+    "source/content/House Elanda.md",
+    "source/content/Amato Family.md",
     "source/content/Anno Primo.md",
-    "source/content/Arendt Keller.md",
+    "source/content/assets/character-art/Olivierbastien.jpg",
+    "source/content/Anno Primo Spring Season.md",
+    "source/content/The Signora.md",
+    "source/content/The Silk.md",
     "source/content/The Tell.md",
-    "source/content/Colette.md",
-    "source/content/Emmeline Lovell.md",
-    "source/content/House Bastien.md",
-    "source/content/House Lovell.md",
     "source/content/Celestina.md",
-    "conflict-files-obsidian-git.md",
-    "source/content/Emmeline.md",
+    "source/content/Colette.md",
+    "source/content/Arendt Keller.md",
+    "source/content/Marcel Bastien.md",
+    "source/content/First Swords in Ilrien.md",
+    "source/content/assets/character-art/The_Signora.jpg",
+    "source/content/assets/character-art/Tyrian.jpg",
+    "source/content/Salar al-Dosta.md",
+    "source/content/assets/screenshots/Pasted.md",
+    "source/content/The Gilt.md",
+    "source/content/Salvatore.md",
+    "source/content/Major Houses.md",
+    "source/content/Lucenne.md",
+    "source/content/Ilrien.md",
+    "source/content/Valcara.md",
+    "source/content/Tyrian.md",
+    "source/content/Roscura.md",
     "source/content/category-folder",
     "source/content/assets/screenshots",
-    "source/content/assets/character-art/Celestina.jpg",
-    "source/content/Giovanni.md",
-    "source/content/The White Road.md",
-    "source/content/The Gilt.md",
-    "source/content/Ilrien.md",
-    "source/content/The Signora.md",
-    "source/content/category-folder/index.md",
-    "Pasted image 20250418141729.png",
-    "Pasted image 20250418141722.png",
-    "source/content/Untitled.md",
-    "Untitled",
-    "source/content/People/Arendt Keller.md",
-    "source/content/People",
-    "source/content/assets/character-art/Ilrien_Map.jpeg",
-    "source/content/assets/character-art/Azita_Zu-Mari.jpg",
-    "source/content/assets/character-art/The_Signora.jpg"
+    "source/content/People"
   ]
 }
