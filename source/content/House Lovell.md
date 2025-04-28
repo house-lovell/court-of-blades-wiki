@@ -24,3 +24,7 @@ _See main article: [[The Tell]]_.
 - [[Dante]], a Kiss
 
 
+## Minor Characters
+
+[[Grace Lovell]]
+Maestro Marchionne di Cheiveli

@@ -8,3 +8,4 @@ distressing novelty. Their true words, if tavern talk is to be believed,
 ## Major Characters
 
 * [[Marcel Bastien]]
+* [[Olivier Bastien]]
