@@ -6,3 +6,5 @@ it in the first place._"
 > A Court of Blades, p. 124
 
 ## Major Characters
+ 
+ * Jasper Elanda, Prince

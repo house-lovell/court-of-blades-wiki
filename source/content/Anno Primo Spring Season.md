@@ -12,3 +12,5 @@ During [[The Spring Tournament]], [[Dante]] and [[Salvatore]] fight as duelists 
 [[Farid zu-Dosta]] won the tournament defeating [[Giovanni]] of the [[Blue Devils]] in the finals.
 
 An after party was thrown in honor of [[Farid zu-Dosta]] at [[House Lovell]]. During the party [[The Tell]] attempted to thwart the poaching of [[Lucenne]] by [[House Al-Mari]], ally more strongly with [[Valcara]] and the [[Blue Devils]], and set up [[Prince Cipriano]] and [[Arendt Keller]].
+
+A few weeks pass and [[The Tell]] plans to infiltrate and disrupt the (Star play name here) primer showing by the [[College of Satire]]. Several plans are in motion to spoil the event, embarrass [[House Elanda]], and ruin the reputation of the [[College of Satire]]

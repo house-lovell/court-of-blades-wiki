@@ -26,5 +26,6 @@ _See main article: [[The Tell]]_.
 
 ## Minor Characters
 
-[[Grace Lovell]]
-Maestro Marchionne di Cheiveli
+* [[Grace Lovell]]
+* Maestro Marchionne di Cheiveli
+* Daniel Damascus 
