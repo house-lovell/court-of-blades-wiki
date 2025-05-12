@@ -3,3 +3,6 @@ Within the major houses of Ilrien, the First Sword is considered the foremost mi
 #### Known First Swords
 - [[Lucenne]], of the [[Blue Devils]].
 - [[Salar al-Dosta]], of [[House Al-Mari]]
+
+#### Aspiring First Swords
+- [[Salvatore]] of House Lovell is seeking to become the First Sword of his house. 
