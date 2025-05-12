@@ -28,4 +28,4 @@ _See main article: [[The Tell]]_.
 
 * [[Grace Lovell]]
 * Maestro Marchionne di Cheiveli
-* Daniel Damascus 
+* Daniel Damascus, the house coach driver.

@@ -10,6 +10,6 @@ as they appear. No one wearing that much greasepaint can be up to any good."
 >A Court of Blades, p. 218
 
 ### Notable Members
-- [[Roscura]]
+- [[Roscura]], a socialite and rival of [[Emmeline Lovell]]
 - Atlas, a Jester
 - Calliope, an Orator

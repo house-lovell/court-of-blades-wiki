@@ -11,3 +11,12 @@ Emmeline is a Hawk and a member of the [[The Tell]].
 > _Em is going to tell Colette about this, and Colette will tell her its stupid, and to just hit up those gross opium bars that the ladies who don't want their nails ruined are always gushing about. She will argue that its much easier and will miss out on the fact that Em feels so much more comfortable chasing down weirdos than she ever would sitting with her back straight at this posh to do parlor. But who is she kidding Colette is her best bitch and can see right through the walls Em tends to put up, and will agree that Em is completely right a party this weekend would totally rule. And that extra package Em will buy from that sewer creep was always going to be for Colette's little habit that of course Em doesn't judge her about._
 > 
 > _In front of the mirror Em finishes her scheming right about when she finishes her eyeliner. One last look and she's totally ready for the city streets. I look hot she thinks, like in a fierce I don't know if I should get too close or not kinda way. She has her wavy brown hair tied up a bit too tight but hair cannot get in the way of aim if she needs it tonight. She straps the folding rifle to her back for the swindler who just won't take a hint and gives her eyes one more glance before throwing her cloak on to go tell Colette her great idea. What would Lovell do with out her?_
+
+
+#### Relationships
+- [[Colette|Colette Lovell]], cousin
+- [[Roscura]], rival
+
+
+#### Events
+- [[Emmeline's Overindulgence in the Firefly]]
