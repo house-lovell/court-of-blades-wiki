@@ -6,3 +6,5 @@ The Tell is comprised of:
 - [[Celestina]]
 - [[Colette]]
 - [[Emmeline Lovell]]
+
+The Tell hold turf in [[The Silk]], where rumor in intrigue flow in abundance.

@@ -12,3 +12,8 @@ Notable Residents:
 - Angel, a Courtesan for the Nobility
 - Seti, an Opium Den Owner
 - [[The Signora]]
+
+
+#### Notable Locations
+
+- [[Absolution Alcove]], a unique gossip house behind the high streets of the Silk.
