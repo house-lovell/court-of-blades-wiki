@@ -27,7 +27,7 @@ Areas of Interest
 * The Lady's Own
 * The Vine
 * The Spindle
-* The Rose District
+* [[The Rose District]]
 * The Trinket
 * The Shores
 * The Groan

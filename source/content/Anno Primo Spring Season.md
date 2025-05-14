@@ -24,4 +24,8 @@ A few weeks pass and [[The Tell]] plans to infiltrate and disrupt the _La Caduta
 
 A stage called [[Teatro Galleggiante]] is being constructed by the College in the Silk for this event. It houses eight private boxes. 
 
-The Tell intend to make the College look undignified by cheapening their wine service.  A delivery of wine from [[The Arborist Guild]] to be made to the teatro is intercepted by the daring coterie, and is replaced by a watered down vintage.
+The Tell intend to make the College look undignified by cheapening their wine service.  A delivery of wine from [[The Arborist Guild]] to be made to the theater is intercepted by the daring coterie, and is replaced by a watered down vintage.
+
+Initially everything was going to plan for the coterie, Prince [[Jasper Elanda]] arrived at the start of the second act and was turned away at the gate, many loose lips spilled valuable gossip during the performance, and the wine was truly awful. 
+
+However, at the conclusion of the play a masked figure appeared on stage, accused [[The Brizolatto Family]] of committing heinous crimes, and set of charges on each of the floating platforms holding up the audience. 

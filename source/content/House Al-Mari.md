@@ -6,6 +6,6 @@ now they are conqueror-princes._"
 
 ## Major Characters
 
-* [[Salar al-Dosta]]
+* [[Salar al-Dosta]], First Sword
 * [[Farid zu-Dosta]]
 * Azita zu-Mari

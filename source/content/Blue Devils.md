@@ -8,7 +8,7 @@ Notable members:
 - [[Chad]], a less accomplished duelist.
 
 #### Turf
-The Blue Devils inhabit a modest manor in Ilrien, boasting a wide interior courtyard. [[The Spring Tournament]] is hosted at this venue.
+The Blue Devils inhabit a modest manor in Ilrien, boasting a wide interior courtyard. The [[Anno Primo Spring Season|Tournament Primavera]] is hosted at this venue.
 
 
 #### Notable Events

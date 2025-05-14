@@ -9,6 +9,6 @@ it in the first place._"
  
  * [[Jasper Elanda]], Prince
 
-## Minor Characters
+## Allies
 
  * [[Moon]], acquaintance of [[Celestina]]

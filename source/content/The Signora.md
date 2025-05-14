@@ -1,7 +1,7 @@
 Tier III
 
->"The Lady of the Silk and Roses, herself, herself. The Signora is the mistress of
-all courtesans and courtiers, the chief of every liftskirt to ply the trade in Ilrien.
+>"The Lady of the [[The Silk|Silk]] and [[The Rose District|Roses]], herself, herself. The Signora is the mistress of
+all courtesans and courtiers, the chief of every liftskirt to ply the trade in [[Ilrien]].
 With a bevy of enforcers and a ruinous amount of blackmail and covertly gleaned
 intelligence, she counts among the most untouchable in the city.
 You do not cross The Signora. While few have the occasion, or
@@ -18,5 +18,8 @@ Notable Allies:
 - Velvet, a Spy
 - The Gondoliers
 - [[The Broadsheets]]
+
+Notable Enemies:
+- [[The Brizolatto Family]]
 
 ![[The_Signora.jpg]]

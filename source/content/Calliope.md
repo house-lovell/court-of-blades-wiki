@@ -1,1 +1,1 @@
-[[Calliope.jpg]]
+![[Calliope.jpg]]

@@ -1,3 +1,3 @@
-Member of [[House Bastien]]
+Member of [[House Bastien]] and nephew of [[Marcel Bastien]]
 
 ![[Olivierbastien.jpg]]
