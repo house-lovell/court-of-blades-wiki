@@ -7,4 +7,8 @@ it in the first place._"
 
 ## Major Characters
  
- * Jasper Elanda, Prince
+ * [[Jasper Elanda]], Prince
+
+## Minor Characters
+
+ * [[Moon]], acquaintance of [[Celestina]]
