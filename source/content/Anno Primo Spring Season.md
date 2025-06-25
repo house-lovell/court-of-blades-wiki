@@ -29,3 +29,8 @@ The Tell intend to make the College look undignified by cheapening their wine se
 Initially everything was going to plan for the coterie, Prince [[Jasper Elanda]] arrived at the start of the second act and was turned away at the gate, many loose lips spilled valuable gossip during the performance, and the wine was truly awful. 
 
 However, at the conclusion of the play a masked figure appeared on stage, accused [[The Brizolatto Family]] of committing heinous crimes, and set of charges on each of the floating platforms holding up the audience. 
+
+Thankfully [[The Tell]] was able to escape the swiftly, sinking theater. Members of [[The Tell]] worked quickly to save other theater goers as well as [[Prince Cipriano]] and [[Arendt Keller]]. [[Jewel]], a member of [[The Broadsheets]] wrote an article about the evening's events. There was one casualty, [[Calliope]].
+
+#### The Hive
+

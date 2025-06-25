@@ -5,3 +5,5 @@ Ilrienne saying: Better under a Corvetto wing than a Corvetto beak._"
 >A Court of Blades, p. 104
 
 ## Major Characters
+
+ * [[Alianna Corvetto]]

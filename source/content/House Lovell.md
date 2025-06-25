@@ -13,7 +13,7 @@ House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Pri
 
 ## Major Characters
 
-[[Prince Cipriano]]
+- [[Prince Cipriano]]
 
 ##### The Coterie
 _See main article: [[The Tell]]_.
@@ -24,8 +24,11 @@ _See main article: [[The Tell]]_.
 - [[Dante]], a Kiss
 
 
+## Characters in Exile
+
+- [[Gianna Lovell]]
 ## Minor Characters
 
-* [[Grace Lovell]]
-* Maestro Marchionne di Cheiveli
-* Daniel Damascus, the house coach driver.
+* [[Grace Lovell]], a grace
+* Maestro Marchionne di Cheiveli, a musician
+* Daniel Damascus, the house coach driver

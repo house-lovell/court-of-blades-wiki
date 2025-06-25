@@ -1,0 +1,1 @@
+The Duchess of the Hive is a title bestowed upon the organizer of the [[Hive Social|Hive Socials]]. Currently the position is held by [[Francesca-Alessandra di Caladrini]]. She has no apparent heir.
