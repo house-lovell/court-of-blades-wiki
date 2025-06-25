@@ -11,14 +11,14 @@
             "id": "d34b0191afc14753",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "source/content/Anno Primo Spring Season.md",
-                "bFile": "source/content/Anno Primo Spring Season.md",
-                "aRef": ""
+                "file": "source/content/Hive Social.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Anno Primo Spring Season"
+              "icon": "lucide-file",
+              "title": "Hive Social"
             }
           }
         ]
@@ -181,6 +181,12 @@
   },
   "active": "d34b0191afc14753",
   "lastOpenFiles": [
+    "source/content/Francesca-Alessandra di Caladrini.md",
+    "source/content/Hive Social.md",
+    "source/content/Duchess of the Hive.md",
+    "source/content/Grace Lovell.md",
+    "source/content/Giovanni.md",
+    "source/content/Celestina.md",
     "source/content/House Lovell.md",
     "source/content/Elayne Bastien.md",
     "source/content/Emmeline Lovell.md",
@@ -189,11 +195,7 @@
     "source/content/First Prince of Ilrien.md",
     "source/content/First Swords in Ilrien.md",
     "source/content/Salar al-Dosta.md",
-    "source/content/Francesca-Alessandra di Caladrini.md",
     "source/content/Gianna Lovell.md",
-    "source/content/Giovanni.md",
-    "source/content/Grace Lovell.md",
-    "source/content/Hive Social.md",
     "source/content/Valcara.md",
     "source/content/Tyrian.md",
     "source/content/The Tell.md",
@@ -205,8 +207,6 @@
     "Tournament Primavera.md",
     "source/content/Blue Devils.md",
     "source/content/Apollonia Kellar.md",
-    "source/content/Arendt Keller.md",
-    "source/content/Bernholdt Battalia.md",
     "Untitled 1",
     "Untitled",
     "source/content/assets/character-art/AliannaCorvetto.jpg",
