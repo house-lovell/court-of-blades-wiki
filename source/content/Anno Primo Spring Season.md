@@ -9,7 +9,7 @@ During the season, [[The Signora]] wants help connecting the [[Blue Devils]] to 
 
 #### Tournament _Primavera_
 
-During [[Tournament Primavera]], [[Dante]] and [[Salvatore]] fight as duelists in the tourney while [[Colette]], [[Celestina]], and [[Emmeline Lovell]] attempt to find ways to ingratiate the Blue Devils and [[House Lovell]] with prominent courtiers in attendance. There is social after party planned.
+During Tournament Primavera, [[Dante]] and [[Salvatore]] fight as duelists in the tourney while [[Colette]], [[Celestina]], and [[Emmeline Lovell]] attempt to find ways to ingratiate the Blue Devils and [[House Lovell]] with prominent courtiers in attendance. There is social after party planned.
 
 [[Farid zu-Dosta]] won the tournament defeating [[Giovanni]] of the [[Blue Devils]] in the finals.
 
