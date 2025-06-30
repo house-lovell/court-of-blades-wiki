@@ -17,7 +17,7 @@ Notable Allies:
 - Crispin, a Courtier
 - Velvet, a Spy
 - The Gondoliers
-- [[The Broadsheets]]
+- [[Broadsheets]]
 
 Notable Enemies:
 - [[The Brizolatto Family]]
