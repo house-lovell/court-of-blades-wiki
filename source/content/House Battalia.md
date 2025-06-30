@@ -7,5 +7,7 @@ A Court of Blades, p. 108
 
 ## Major Characters
 
-* [[Arendt Keller]]
+* [[Eltzabet Battalia]], Prince
 * [[Bernholdt Battalia]]
+	* [[Arendt Keller]]
+	* [[Apollonia Kellar]]
