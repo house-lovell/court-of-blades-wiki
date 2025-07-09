@@ -20,6 +20,6 @@ Notable Allies:
 - [[Broadsheets]]
 
 Notable Enemies:
-- [[The Brizolatto Family]]
+- [[House Brizolatto]]
 
 ![[The_Signora.jpg]]

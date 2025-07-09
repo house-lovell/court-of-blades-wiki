@@ -8,9 +8,6 @@ are certainly listening._"
 
 House Lovell is a [[Major Houses |major house]] in [[Ilrien]]. In the [[Anno Primo Spring Season|Spring Season]] of [[Anno Primo]], the house is led by [[Prince Cipriano]] after his parents fell to scandal. Lovell currently sits sixth in prominence among the major houses.
 
-## History
-
-
 ## Major Characters
 
 - [[Prince Cipriano]]
@@ -32,3 +29,7 @@ _See main article: [[The Tell]]_.
 * [[Grace Lovell]], a grace
 * Maestro Marchionne di Cheiveli, a musician
 * Daniel Damascus, the house coach driver
+
+## House Iconography 
+Beetles and cups
+House Colors: Teal and Gold

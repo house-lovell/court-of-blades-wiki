@@ -28,9 +28,10 @@ The Tell intend to make the College look undignified by cheapening their wine se
 
 Initially everything was going to plan for the coterie, Prince [[Jasper Elanda]] arrived at the start of the second act and was turned away at the gate, many loose lips spilled valuable gossip during the performance, and the wine was truly awful. 
 
-However, at the conclusion of the play a masked figure appeared on stage, accused [[The Brizolatto Family]] of committing heinous crimes, and set of charges on each of the floating platforms holding up the audience. 
+However, at the conclusion of the play a masked figure appeared on stage, accused [[House Brizolatto]] of committing heinous crimes, and set of charges on each of the floating platforms holding up the audience. 
 
 Thankfully [[The Tell]] was able to escape the swiftly, sinking theater. Members of [[The Tell]] worked quickly to save other theater goers as well as [[Prince Cipriano]] and [[Arendt Keller]]. [[Jewel]], a member of the [[Broadsheets]] wrote an article about the evening's events. There was one casualty, [[Calliope]].
 
 #### The Hive
 
+[[The Tell]] attended the [[Hive Social]] and played many rounds of the [[Lady's Threesome]]. The coterie also learned information about the many attendees. The event was interrupted by a sparring match between [[Anna Amato]] and [[Anna-Lucia di Mare]]. Several of the events attendees went out afterwards to [[The Guilded Grin]], a speakeasy located in [[The Gilt]]. [[Prince Cipriano]] asked [[Alianna Corvetto]] to the Mask event thrown at [[House Lovell]]. [[Salvatore]] also asked to be accompanied by [[Siavash Zu-Mari]].

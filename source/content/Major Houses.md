@@ -7,6 +7,8 @@ There are six major houses in Ilrien:
 - [[House Elanda]]
 - [[index|House Lovell]]
 
+These houses stand above the many [[Minor Houses]]
+
 #### Standing
 During the [[Anno Primo Spring Season]], the Houses are ranked accordingly:
 1. [[House Corvetto]], whose leader ranks as the [[First Prince of Ilrien]].

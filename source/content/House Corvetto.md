@@ -7,3 +7,7 @@ Ilrienne saying: Better under a Corvetto wing than a Corvetto beak._"
 ## Major Characters
 
  * [[Alianna Corvetto]]
+
+## House Iconography 
+Ravens and crowns
+House Colors: Purple and Black

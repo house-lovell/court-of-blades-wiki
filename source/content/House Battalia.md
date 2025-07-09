@@ -11,3 +11,7 @@ A Court of Blades, p. 108
 * [[Bernholdt Battalia]]
 	* [[Arendt Keller]]
 	* [[Apollonia Kellar]]
+
+## House Iconography 
+Horses, Lions, and Shields
+House Colors: Blue and White
